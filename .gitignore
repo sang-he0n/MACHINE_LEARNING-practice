@@ -1,0 +1,9 @@
+#File
+*.DS_Store
+*.pptx
+
+#Directory
+/css
+/key
+/Output
+/markdown
